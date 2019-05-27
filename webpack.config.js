@@ -13,12 +13,12 @@ const config = {
         use: 'ts-loader',
         exclude: /node_modules/,
       },
-			{ // 이걸 제거하면 70kib까지 bundle 사이즈가 늘어나는것을 볼 수 있음
-        test: /\.ts$/,
-        loader: 'lodash-ts-webpack-plugin',
-        exclude: /node_modules/,
-        enforce: 'pre'
-      },
+//			{ // 이걸 제거하면 70kib까지 bundle 사이즈가 늘어나는것을 볼 수 있음
+//        test: /\.ts$/,
+//        loader: 'lodash-ts-webpack-plugin',
+//        exclude: /node_modules/,
+//        enforce: 'pre'
+//      },
     ],
   },
   node: {

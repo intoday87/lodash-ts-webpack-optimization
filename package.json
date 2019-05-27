@@ -1,0 +1,21 @@
+{
+  "name": "webpack-lodash-bundle-optimization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --config webpack.config.js --progress"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  },
+  "devDependencies": {
+    "lodash-ts-webpack-plugin": "^1.1.4",
+    "lodash-webpack-plugin": "^0.11.5",
+    "ts-loader": "^6.0.1",
+    "typescript": "^3.4.5",
+    "uglifyjs-webpack-plugin": "^2.1.3"
+  }
+}

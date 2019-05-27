@@ -41,7 +41,7 @@ const config = {
     path: path.resolve(__dirname, 'dist'),
   },
 	plugins: [
-	 new LodashModuleReplacementPlugin, // typescript에서는 소용이 없음
+	 new LodashModuleReplacementPlugin,
 	]
 }
 

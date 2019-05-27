@@ -1543,11 +1543,6 @@ lodash-es@^4.17.11:
   resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.11.tgz#145ab4a7ac5c5e52a3531fb4f310255a152b4be0"
   integrity sha512-DHb1ub+rMjjrxqlB3H56/6MXtm1lSksDp2rA2cNWjG8mlDUYFhUj3Di2Zn5IwSU87xLv8tNIQ7sSwE/YOX/D/Q==
 
-lodash-ts-webpack-plugin@^1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/lodash-ts-webpack-plugin/-/lodash-ts-webpack-plugin-1.1.4.tgz#d610a414c92e501ceb94faef71adf7a2d0593a46"
-  integrity sha512-gDZj5366VyqZ/ZS/JqeqdOIue16qyxWi81ddw5EVIjk2GirzJpyI36WOc574c2DeoBfyyoRJVL8S9jbPqW7J6w==
-
 lodash-webpack-plugin@^0.11.5:
   version "0.11.5"
   resolved "https://registry.yarnpkg.com/lodash-webpack-plugin/-/lodash-webpack-plugin-0.11.5.tgz#c4bd064b4f561c3f823fa5982bdeb12c475390b9"

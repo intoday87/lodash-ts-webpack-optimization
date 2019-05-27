@@ -13,7 +13,6 @@
   },
   "devDependencies": {
     "@types/lodash-es": "^4.17.3",
-    "lodash-ts-webpack-plugin": "^1.1.4",
     "lodash-webpack-plugin": "^0.11.5",
     "ts-loader": "^6.0.1",
     "typescript": "^3.4.5",
